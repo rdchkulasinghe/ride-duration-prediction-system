@@ -4,14 +4,14 @@ A machine learning based web application that predicts NYC taxi ride duration us
 
 This project was developed as a Data Science portfolio project using Python, Scikit-learn, Streamlit, and SQLite.
 
----
+
 
 ## 📌 Project Overview
 
 The Ride Duration Prediction System helps estimate taxi trip duration using a trained machine learning model.  
 The system includes a modern dashboard, real-time prediction, user login and registration, prediction history, database storage, and analytics.
 
----
+
 
 ## ✨ Features
 
@@ -27,7 +27,7 @@ The system includes a modern dashboard, real-time prediction, user login and reg
 - Interactive Streamlit UI
 - Machine learning model integration
 
----
+
 
 ## 🧠 Machine Learning
 
@@ -42,7 +42,7 @@ Model used:
 
 - Linear Regression
 
----
+
 
 ## 🛠️ Technologies Used
 
@@ -55,7 +55,7 @@ Model used:
 - Pickle
 - GitHub
 
----
+
 
 ## 📊 Dataset
 
@@ -70,7 +70,7 @@ Note:
 The full dataset is not included in this repository because it is large.  
 Only source code, model file, and application files are included.
 
----
+-
 
 ## 📁 Project Structure
 
@@ -117,7 +117,7 @@ pip install -r requirements.txt
 python -m streamlit run app.py
 ```
 
----
+
 
 ## 👥 Target Users
 
@@ -130,7 +130,7 @@ This system can be used by:
 * Data science students
 * Researchers
 
----
+
 
 ## 📈 System Modules
 
@@ -150,20 +150,6 @@ Saved predictions can be viewed, searched, deleted, and downloaded.
 
 The system provides analytics based on saved prediction data.
 
----
-
-## 📸 Screenshots
-
-Add screenshots here:
-
-```markdown
-![Login Page](images/login.png)
-![Dashboard](images/dashboard.png)
-![Prediction](images/prediction.png)
-![Analytics](images/analytics.png)
-```
-
----
 
 ## 🔮 Future Improvements
 
@@ -175,13 +161,13 @@ Add screenshots here:
 * Add password reset feature
 * Deploy with Docker
 
----
+
 
 ## 👩‍💻 Author
 
 Developed by **Chamodi Hansika**
 
----
+
 
 ## 📄 License
 
