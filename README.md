@@ -90,12 +90,13 @@ ride-duration-prediction-system/
 │   └── dataset not included
 │
 └── ride_predictions.db
+```
 
 ## 🚀 How to Run the Project
 
 ### 1. Clone the repository
 
-```
+```bash
 git clone https://github.com/your-username/ride-duration-prediction-system.git
 ```
 
